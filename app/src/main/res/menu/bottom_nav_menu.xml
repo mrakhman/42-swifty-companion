@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/searchFragment"
+        android:title="@string/search_fragment"
+        android:icon="@drawable/ic_search" />
+
+    <item android:id="@+id/profilesFragment"
+        android:title="@string/profiles_fragment"
+        android:icon="@drawable/ic_star" />
+
+    <item android:id="@+id/myProfileFragment"
+        android:title="@string/my_profile_fragment"
+        android:icon="@drawable/ic_my_profile" />
+</menu>

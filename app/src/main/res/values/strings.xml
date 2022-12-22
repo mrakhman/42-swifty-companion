@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Swifty Companion</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_fragment">Search</string>
+    <string name="profiles_fragment">Favorites</string>
+    <string name="my_profile_fragment">My Profile</string>
 </resources>
